@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://grumpy-dev-blog.vercel.app/'
 languageCode = 'en-us'
 title = 'Grumpy Mid Dev'
 theme = 'Archie'
